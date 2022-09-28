@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bilal/static/css/main.f7148323.css",
+    "main.js": "/bilal/static/js/main.d722c2f6.js",
+    "static/media/img-1.png": "/bilal/static/media/img-1.83a5dc77e15a50dcc0e2.png",
+    "index.html": "/bilal/index.html",
+    "main.f7148323.css.map": "/bilal/static/css/main.f7148323.css.map",
+    "main.d722c2f6.js.map": "/bilal/static/js/main.d722c2f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7148323.css",
+    "static/js/main.d722c2f6.js"
+  ]
+}
