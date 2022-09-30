@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Bilal/static/css/main.f7148323.css",
-    "main.js": "/Bilal/static/js/main.ec904abb.js",
+    "main.js": "/Bilal/static/js/main.c13e84f0.js",
     "static/media/img-1.png": "/Bilal/static/media/img-1.83a5dc77e15a50dcc0e2.png",
     "index.html": "/Bilal/index.html",
     "main.f7148323.css.map": "/Bilal/static/css/main.f7148323.css.map",
-    "main.ec904abb.js.map": "/Bilal/static/js/main.ec904abb.js.map"
+    "main.c13e84f0.js.map": "/Bilal/static/js/main.c13e84f0.js.map"
   },
   "entrypoints": [
     "static/css/main.f7148323.css",
-    "static/js/main.ec904abb.js"
+    "static/js/main.c13e84f0.js"
   ]
 }
